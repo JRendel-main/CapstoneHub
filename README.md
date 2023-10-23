@@ -35,6 +35,7 @@ npm install
 ```ini
 PORT=3000
 DATABASE_URL=your-database-connection-url
+```
 # Add other configuration options as needed
 Usage
 Creating an Account:
