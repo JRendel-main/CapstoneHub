@@ -1,0 +1,1883 @@
+[
+    {
+        "title": "QR Code Attendance Based System",
+        "description": "A QR Code based attendance system for students and teachers.",
+        "link": "github.com",
+        "by": "Siddharth",
+        "date": "2020-05-01",
+        "tags": ["Python", "Flask", "QR Code", "Attendance"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Weather Forecast App",
+        "description": "A web application that provides weather forecasts for various locations.",
+        "link": "github.com",
+        "by": "John",
+        "date": "2021-02-15",
+        "tags": ["JavaScript", "React", "Weather", "API"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-commerce Website",
+        "description": "An e-commerce platform for buying and selling products online.",
+        "link": "github.com",
+        "by": "Emily",
+        "date": "2019-11-20",
+        "tags": ["PHP", "MySQL", "E-commerce", "Web Development"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Management App",
+        "description": "An application to manage tasks and to-do lists efficiently.",
+        "link": "github.com",
+        "by": "Michael",
+        "date": "2022-07-10",
+        "tags": ["Java", "Android", "Task Management", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Book",
+        "description": "A digital recipe book with a user-friendly interface for food enthusiasts.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2020-09-30",
+        "tags": ["Python", "Django", "Recipe", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Chat Application",
+        "description": "A real-time chat application for communication and messaging.",
+        "link": "github.com",
+        "by": "David",
+        "date": "2018-12-05",
+        "tags": ["Node.js", "Socket.io", "Chat", "Web Development"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Budget Tracker",
+        "description": "An application to track and manage personal finances and expenses.",
+        "link": "github.com",
+        "by": "Linda",
+        "date": "2021-04-18",
+        "tags": ["React Native", "Finance", "Mobile App", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Blog Platform",
+        "description": "A blogging platform for writers to share their thoughts and articles.",
+        "link": "github.com",
+        "by": "Mark",
+        "date": "2019-06-12",
+        "tags": ["Ruby on Rails", "Blogging", "Web Development", "Content"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Management System",
+        "description": "A system for businesses to manage their inventory and stock levels.",
+        "link": "github.com",
+        "by": "Olivia",
+        "date": "2022-01-23",
+        "tags": ["C#", "Inventory", "Database", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Player App",
+        "description": "A music player application with features like playlists and equalizer.",
+        "link": "github.com",
+        "by": "William",
+        "date": "2020-07-09",
+        "tags": ["Swift", "iOS", "Music", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Finder",
+        "description": "A tool to discover and save cooking recipes from the web.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2021-11-28",
+        "tags": ["Python", "Beautiful Soup", "Cooking", "Web Scraper"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Portfolio Website",
+        "description": "A personal website to showcase a portfolio of creative work.",
+        "link": "github.com",
+        "by": "Henry",
+        "date": "2019-03-14",
+        "tags": ["HTML", "CSS", "Portfolio", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Scheduling App",
+        "description": "An application for scheduling and managing tasks and appointments.",
+        "link": "github.com",
+        "by": "Emma",
+        "date": "2022-05-03",
+        "tags": ["Flutter", "Task Management", "Mobile App", "Calendar"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-learning Platform",
+        "description": "A platform for online courses and educational content delivery.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2020-08-27",
+        "tags": ["Java", "Spring Boot", "Education", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Tracker",
+        "description": "An app to record and analyze workout and fitness data.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2021-01-10",
+        "tags": ["Python", "Fitness", "Mobile App", "Health"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Media Dashboard",
+        "description": "A dashboard to manage and monitor social media accounts and posts.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2019-07-22",
+        "tags": ["PHP", "Social Media", "Web Development", "Dashboard"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Travel Booking System",
+        "description": "A system for booking flights, hotels, and travel packages.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2022-04-05",
+        "tags": ["React", "Travel", "Booking", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Video Streaming App",
+        "description": "An app for streaming and sharing videos with a global audience.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-10-17",
+        "tags": ["JavaScript", "Video Streaming", "Mobile App", "Media"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Tracking Tool",
+        "description": "A tool for tracking and managing tasks and project assignments.",
+        "link": "github.com",
+        "by": "Aiden",
+        "date": "2021-03-29",
+        "tags": ["Ruby on Rails", "Task Management", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Sharing Community",
+        "description": "A platform for users to share and discover cooking recipes.",
+        "link": "github.com",
+        "by": "Harper",
+        "date": "2019-10-08",
+        "tags": ["PHP", "Recipe Sharing", "Web Development", "Community"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Tracking App",
+        "description": "An application for businesses to track and manage inventory and stock levels.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2022-08-14",
+        "tags": ["Java", "Android", "Inventory", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "News Aggregator",
+        "description": "A news aggregation platform that collects and presents news articles.",
+        "link": "github.com",
+        "by": "Daniel",
+        "date": "2020-06-19",
+        "tags": ["Python", "Django", "News", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Streaming Service",
+        "description": "A music streaming service with a vast library of songs and playlists.",
+        "link": "github.com",
+        "by": "Grace",
+        "date": "2018-09-25",
+        "tags": ["Node.js", "Music Streaming", "Web Development", "Entertainment"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Tracker",
+        "description": "An app for individuals to track and manage their personal finances.",
+        "link": "github.com",
+        "by": "James",
+        "date": "2021-05-29",
+        "tags": ["Swift", "iOS", "Finance", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Recommendation Engine",
+        "description": "An engine that suggests recipes based on user preferences and ingredients.",
+        "link": "github.com",
+        "by": "Aria",
+        "date": "2020-12-12",
+        "tags": ["Python", "Machine Learning", "Cooking", "Recommendation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Photography Portfolio",
+        "description": "A website showcasing a photographer's portfolio of stunning images.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2019-02-08",
+        "tags": ["HTML", "CSS", "Photography", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Workout App",
+        "description": "An app with workout routines and fitness tracking features.",
+        "link": "github.com",
+        "by": "Avery",
+        "date": "2022-03-01",
+        "tags": ["Flutter", "Fitness", "Mobile App", "Health"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Media Analytics Dashboard",
+        "description": "A dashboard for analyzing social media engagement and metrics.",
+        "link": "github.com",
+        "by": "Luna",
+        "date": "2019-08-14",
+        "tags": ["JavaScript", "Analytics", "Web Development", "Social Media"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Hotel Booking System",
+        "description": "A system for booking hotel rooms and accommodations.",
+        "link": "github.com",
+        "by": "Logan",
+        "date": "2022-02-21",
+        "tags": ["Java", "Hotel Booking", "Web App", "Travel"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Video Editing Software",
+        "description": "A software for editing and enhancing videos with various features.",
+        "link": "github.com",
+        "by": "Hannah",
+        "date": "2020-11-07",
+        "tags": ["C++", "Video Editing", "Software", "Multimedia"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Project Management Tool",
+        "description": "A tool for managing projects, tasks, and team collaboration.",
+        "link": "github.com",
+        "by": "Milo",
+        "date": "2021-04-03",
+        "tags": ["Ruby on Rails", "Project Management", "Web Development", "Collaboration"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Book Recommendation App",
+        "description": "An app that recommends books based on user preferences and reading history.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2019-10-18",
+        "tags": ["Python", "Book Recommendations", "Mobile App", "Reading"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Synchronization Tool",
+        "description": "A tool for synchronizing and managing tasks across multiple devices.",
+        "link": "github.com",
+        "by": "Evan",
+        "date": "2022-06-07",
+        "tags": ["React Native", "Task Management", "Mobile App", "Synchronization"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Language Learning App",
+        "description": "An app for learning new languages with lessons and quizzes.",
+        "link": "github.com",
+        "by": "Zoe",
+        "date": "2020-09-12",
+        "tags": ["Java", "Language Learning", "Mobile App", "Education"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Organizer",
+        "description": "An organizer for storing and categorizing cooking recipes.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2018-12-29",
+        "tags": ["Python", "Django", "Recipe Organization", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Portfolio Showcase",
+        "description": "A portfolio website for designers and artists to exhibit their work.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-04-25",
+        "tags": ["HTML", "CSS", "Portfolio", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Time Tracking Application",
+        "description": "An application for tracking and analyzing time spent on tasks and projects.",
+        "link": "github.com",
+        "by": "Oliver",
+        "date": "2021-02-02",
+        "tags": ["Node.js", "Time Tracking", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Workout Planner",
+        "description": "A planner for creating and managing fitness workout routines.",
+        "link": "github.com",
+        "by": "Avery",
+        "date": "2022-04-14",
+        "tags": ["Swift", "iOS", "Fitness", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Survey and Feedback App",
+        "description": "An app for conducting surveys and gathering user feedback.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2019-06-30",
+        "tags": ["Java", "Survey", "Mobile App", "Feedback"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Event Management System",
+        "description": "A system for planning and organizing events and conferences.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2020-11-11",
+        "tags": ["Python", "Flask", "Event Management", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Digital Art Gallery",
+        "description": "A digital platform for artists to showcase and sell their digital art.",
+        "link": "github.com",
+        "by": "Aiden",
+        "date": "2018-10-06",
+        "tags": ["PHP", "Digital Art", "Web Development", "Art Gallery"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Tracker",
+        "description": "An app for individuals to track and manage their personal finances.",
+        "link": "github.com",
+        "by": "Grace",
+        "date": "2021-03-15",
+        "tags": ["React Native", "Finance", "Mobile App", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Management System",
+        "description": "A system for organizing and tracking tasks and projects.",
+        "link": "github.com",
+        "by": "Daniel",
+        "date": "2019-07-19",
+        "tags": ["C#", "Task Management", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Sharing Platform",
+        "description": "A platform for users to share and discover cooking recipes.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2022-01-05",
+        "tags": ["JavaScript", "Recipe Sharing", "Web Development", "Community"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Tracking System",
+        "description": "A system for businesses to monitor and manage inventory and stock levels.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-05-22",
+        "tags": ["Python", "Django", "Inventory", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "News Aggregator",
+        "description": "A news aggregation platform that collects and presents news articles.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2019-11-30",
+        "tags": ["Java", "News", "Web App", "Journalism"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Streaming Service",
+        "description": "A music streaming service with a vast library of songs and playlists.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2022-06-03",
+        "tags": ["Ruby on Rails", "Music Streaming", "Web Development", "Entertainment"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Manager",
+        "description": "An app for managing personal finances, budgeting, and expense tracking.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2020-12-24",
+        "tags": ["Swift", "iOS", "Finance", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Recommendation Engine",
+        "description": "An engine that suggests recipes based on user preferences and ingredients.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2018-08-16",
+        "tags": ["Python", "Machine Learning", "Cooking", "Recommendation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "QR Code Attendance Based System",
+        "description": "A QR Code based attendance system for students and teachers.",
+        "link": "github.com",
+        "by": "Siddharth",
+        "date": "2020-05-01",
+        "tags": ["Python", "Flask", "QR Code", "Attendance"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Weather Forecast App",
+        "description": "A web application that provides weather forecasts for various locations.",
+        "link": "github.com",
+        "by": "John",
+        "date": "2021-02-15",
+        "tags": ["JavaScript", "React", "Weather", "API"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-commerce Website",
+        "description": "An e-commerce platform for buying and selling products online.",
+        "link": "github.com",
+        "by": "Emily",
+        "date": "2019-11-20",
+        "tags": ["PHP", "MySQL", "E-commerce", "Web Development"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Management App",
+        "description": "An application to manage tasks and to-do lists efficiently.",
+        "link": "github.com",
+        "by": "Michael",
+        "date": "2022-07-10",
+        "tags": ["Java", "Android", "Task Management", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Book",
+        "description": "A digital recipe book with a user-friendly interface for food enthusiasts.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2020-09-30",
+        "tags": ["Python", "Django", "Recipe", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Chat Application",
+        "description": "A real-time chat application for communication and messaging.",
+        "link": "github.com",
+        "by": "David",
+        "date": "2018-12-05",
+        "tags": ["Node.js", "Socket.io", "Chat", "Web Development"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Budget Tracker",
+        "description": "An application to track and manage personal finances and expenses.",
+        "link": "github.com",
+        "by": "Linda",
+        "date": "2021-04-18",
+        "tags": ["React Native", "Finance", "Mobile App", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Blog Platform",
+        "description": "A blogging platform for writers to share their thoughts and articles.",
+        "link": "github.com",
+        "by": "Mark",
+        "date": "2019-06-12",
+        "tags": ["Ruby on Rails", "Blogging", "Web Development", "Content"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Management System",
+        "description": "A system for businesses to manage their inventory and stock levels.",
+        "link": "github.com",
+        "by": "Olivia",
+        "date": "2022-01-23",
+        "tags": ["C#", "Inventory", "Database", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Player App",
+        "description": "A music player application with features like playlists and equalizer.",
+        "link": "github.com",
+        "by": "William",
+        "date": "2020-07-09",
+        "tags": ["Swift", "iOS", "Music", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Finder",
+        "description": "A tool to discover and save cooking recipes from the web.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2021-11-28",
+        "tags": ["Python", "Beautiful Soup", "Cooking", "Web Scraper"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Portfolio Website",
+        "description": "A personal website to showcase a portfolio of creative work.",
+        "link": "github.com",
+        "by": "Henry",
+        "date": "2019-03-14",
+        "tags": ["HTML", "CSS", "Portfolio", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Scheduling App",
+        "description": "An application for scheduling and managing tasks and appointments.",
+        "link": "github.com",
+        "by": "Emma",
+        "date": "2022-05-03",
+        "tags": ["Flutter", "Task Management", "Mobile App", "Calendar"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-learning Platform",
+        "description": "A platform for online courses and educational content delivery.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2020-08-27",
+        "tags": ["Java", "Spring Boot", "Education", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Tracker",
+        "description": "An app to record and analyze workout and fitness data.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2021-01-10",
+        "tags": ["Python", "Fitness", "Mobile App", "Health"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Media Dashboard",
+        "description": "A dashboard to manage and monitor social media accounts and posts.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2019-07-22",
+        "tags": ["PHP", "Social Media", "Web Development", "Dashboard"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Travel Booking System",
+        "description": "A system for booking flights, hotels, and travel packages.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2022-04-05",
+        "tags": ["React", "Travel", "Booking", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Video Streaming App",
+        "description": "An app for streaming and sharing videos with a global audience.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-10-17",
+        "tags": ["JavaScript", "Video Streaming", "Mobile App", "Media"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Tracking Tool",
+        "description": "A tool for tracking and managing tasks and project assignments.",
+        "link": "github.com",
+        "by": "Aiden",
+        "date": "2021-03-29",
+        "tags": ["Ruby on Rails", "Task Management", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Sharing Community",
+        "description": "A platform for users to share and discover cooking recipes.",
+        "link": "github.com",
+        "by": "Harper",
+        "date": "2019-10-08",
+        "tags": ["PHP", "Recipe Sharing", "Web Development", "Community"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Tracking App",
+        "description": "An application for businesses to track and manage inventory and stock levels.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2022-08-14",
+        "tags": ["Java", "Android", "Inventory", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "News Aggregator",
+        "description": "A news aggregation platform that collects and presents news articles.",
+        "link": "github.com",
+        "by": "Daniel",
+        "date": "2020-06-19",
+        "tags": ["Python", "Django", "News", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Streaming Service",
+        "description": "A music streaming service with a vast library of songs and playlists.",
+        "link": "github.com",
+        "by": "Grace",
+        "date": "2018-09-25",
+        "tags": ["Node.js", "Music Streaming", "Web Development", "Entertainment"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Tracker",
+        "description": "An app for individuals to track and manage their personal finances.",
+        "link": "github.com",
+        "by": "James",
+        "date": "2021-05-29",
+        "tags": ["Swift", "iOS", "Finance", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Recommendation Engine",
+        "description": "An engine that suggests recipes based on user preferences and ingredients.",
+        "link": "github.com",
+        "by": "Aria",
+        "date": "2020-12-12",
+        "tags": ["Python", "Machine Learning", "Cooking", "Recommendation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Photography Portfolio",
+        "description": "A website showcasing a photographer's portfolio of stunning images.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2019-02-08",
+        "tags": ["HTML", "CSS", "Photography", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Workout App",
+        "description": "An app with workout routines and fitness tracking features.",
+        "link": "github.com",
+        "by": "Avery",
+        "date": "2022-03-01",
+        "tags": ["Flutter", "Fitness", "Mobile App", "Health"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Media Analytics Dashboard",
+        "description": "A dashboard for analyzing social media engagement and metrics.",
+        "link": "github.com",
+        "by": "Luna",
+        "date": "2019-08-14",
+        "tags": ["JavaScript", "Analytics", "Web Development", "Social Media"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Hotel Booking System",
+        "description": "A system for booking hotel rooms and accommodations.",
+        "link": "github.com",
+        "by": "Logan",
+        "date": "2022-02-21",
+        "tags": ["Java", "Hotel Booking", "Web App", "Travel"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Video Editing Software",
+        "description": "A software for editing and enhancing videos with various features.",
+        "link": "github.com",
+        "by": "Hannah",
+        "date": "2020-11-07",
+        "tags": ["C++", "Video Editing", "Software", "Multimedia"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Project Management Tool",
+        "description": "A tool for managing projects, tasks, and team collaboration.",
+        "link": "github.com",
+        "by": "Milo",
+        "date": "2021-04-03",
+        "tags": ["Ruby on Rails", "Project Management", "Web Development", "Collaboration"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Book Recommendation App",
+        "description": "An app that recommends books based on user preferences and reading history.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2019-10-18",
+        "tags": ["Python", "Book Recommendations", "Mobile App", "Reading"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Synchronization Tool",
+        "description": "A tool for synchronizing and managing tasks across multiple devices.",
+        "link": "github.com",
+        "by": "Evan",
+        "date": "2022-06-07",
+        "tags": ["React Native", "Task Management", "Mobile App", "Synchronization"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Language Learning App",
+        "description": "An app for learning new languages with lessons and quizzes.",
+        "link": "github.com",
+        "by": "Zoe",
+        "date": "2020-09-12",
+        "tags": ["Java", "Language Learning", "Mobile App", "Education"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Organizer",
+        "description": "An organizer for storing and categorizing cooking recipes.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2018-12-29",
+        "tags": ["Python", "Django", "Recipe Organization", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Portfolio Showcase",
+        "description": "A portfolio website for designers and artists to exhibit their work.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-04-25",
+        "tags": ["HTML", "CSS", "Portfolio", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Time Tracking Application",
+        "description": "An application for tracking and analyzing time spent on tasks and projects.",
+        "link": "github.com",
+        "by": "Oliver",
+        "date": "2021-02-02",
+        "tags": ["Node.js", "Time Tracking", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Workout Planner",
+        "description": "A planner for creating and managing fitness workout routines.",
+        "link": "github.com",
+        "by": "Avery",
+        "date": "2022-04-14",
+        "tags": ["Swift", "iOS", "Fitness", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Survey and Feedback App",
+        "description": "An app for conducting surveys and gathering user feedback.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2019-06-30",
+        "tags": ["Java", "Survey", "Mobile App", "Feedback"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Event Management System",
+        "description": "A system for planning and organizing events and conferences.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2020-11-11",
+        "tags": ["Python", "Flask", "Event Management", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Digital Art Gallery",
+        "description": "A digital platform for artists to showcase and sell their digital art.",
+        "link": "github.com",
+        "by": "Aiden",
+        "date": "2018-10-06",
+        "tags": ["PHP", "Digital Art", "Web Development", "Art Gallery"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Tracker",
+        "description": "An app for individuals to track and manage their personal finances.",
+        "link": "github.com",
+        "by": "Grace",
+        "date": "2021-03-15",
+        "tags": ["React Native", "Finance", "Mobile App", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Management System",
+        "description": "A system for organizing and tracking tasks and projects.",
+        "link": "github.com",
+        "by": "Daniel",
+        "date": "2019-07-19",
+        "tags": ["C#", "Task Management", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Sharing Platform",
+        "description": "A platform for users to share and discover cooking recipes.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2022-01-05",
+        "tags": ["JavaScript", "Recipe Sharing", "Web Development", "Community"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Tracking System",
+        "description": "A system for businesses to monitor and manage inventory and stock levels.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-05-22",
+        "tags": ["Python", "Django", "Inventory", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "News Aggregator",
+        "description": "A news aggregation platform that collects and presents news articles.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2019-11-30",
+        "tags": ["Java", "News", "Web App", "Journalism"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Streaming Service",
+        "description": "A music streaming service with a vast library of songs and playlists.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2022-06-03",
+        "tags": ["Ruby on Rails", "Music Streaming", "Web Development", "Entertainment"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Manager",
+        "description": "An app for managing personal finances, budgeting, and expense tracking.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2020-12-24",
+        "tags": ["Swift", "iOS", "Finance", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Recommendation Engine",
+        "description": "An engine that suggests recipes based on user preferences and ingredients.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2018-08-16",
+        "tags": ["Python", "Machine Learning", "Cooking", "Recommendation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-commerce Mobile App",
+        "description": "A mobile application for shopping online and managing user profiles.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2021-06-15",
+        "tags": ["React Native", "E-commerce", "Mobile App", "Shopping"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI Chatbot for Customer Support",
+        "description": "An AI-powered chatbot for providing customer support and answering queries.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2022-02-20",
+        "tags": ["Python", "NLP", "Chatbot", "Customer Support"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Smart Home Automation System",
+        "description": "A system for controlling lights, thermostats, and appliances in a smart home.",
+        "link": "github.com",
+        "by": "Aiden",
+        "date": "2020-10-30",
+        "tags": ["IoT", "Home Automation", "Smart Home", "Automation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Language Translation App",
+        "description": "An app for translating text and speech between multiple languages.",
+        "link": "github.com",
+        "by": "Zoe",
+        "date": "2021-08-25",
+        "tags": ["Java", "Translation", "Mobile App", "Language"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Library Management System",
+        "description": "A software system for managing books, patrons, and checkouts in a library.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2019-12-12",
+        "tags": ["C#", "Library Management", "Software", "Library"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Food Delivery App",
+        "description": "An app for ordering food from restaurants and tracking deliveries.",
+        "link": "github.com",
+        "by": "Aria",
+        "date": "2020-03-05",
+        "tags": ["React", "Food Delivery", "Mobile App", "Restaurant"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Blog Analytics Dashboard",
+        "description": "A dashboard for analyzing blog traffic, user engagement, and content performance.",
+        "link": "github.com",
+        "by": "Henry",
+        "date": "2021-01-10",
+        "tags": ["JavaScript", "Analytics", "Web Development", "Blogging"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Project Collaboration Platform",
+        "description": "A platform for teams to collaborate on projects, share files, and communicate.",
+        "link": "github.com",
+        "by": "Emma",
+        "date": "2019-09-18",
+        "tags": ["Ruby on Rails", "Collaboration", "Web Development", "Project Management"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Weather Forecast API",
+        "description": "An API providing real-time weather forecasts and historical weather data.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2022-05-15",
+        "tags": ["Python", "API", "Weather", "Forecast"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Discovery App",
+        "description": "An app for discovering new music, creating playlists, and sharing music with friends.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2020-11-22",
+        "tags": ["Swift", "iOS", "Music", "Discovery"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Appointment Scheduling System",
+        "description": "A system for scheduling appointments, meetings, and events with reminders.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2019-05-01",
+        "tags": ["Java", "Scheduling", "Web App", "Appointments"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Survey and Feedback Platform",
+        "description": "A platform for creating surveys, gathering feedback, and analyzing responses.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2021-12-10",
+        "tags": ["JavaScript", "Survey", "Web Development", "Feedback"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-learning Mobile App",
+        "description": "An app for accessing online courses and educational content on mobile devices.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-08-09",
+        "tags": ["Flutter", "Education", "Mobile App", "Online Learning"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Recommendation App",
+        "description": "An app that recommends recipes based on dietary preferences and allergies.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2018-07-05",
+        "tags": ["Python", "Recommendation", "Mobile App", "Cooking"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website for showcasing creative design and development work.",
+        "link": "github.com",
+        "by": "Luna",
+        "date": "2019-03-20",
+        "tags": ["HTML", "CSS", "Portfolio", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Workout App",
+        "description": "An app for planning and tracking fitness workouts, routines, and progress.",
+        "link": "github.com",
+        "by": "Milo",
+        "date": "2022-03-10",
+        "tags": ["React Native", "Fitness", "Mobile App", "Workout"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Media Scheduler",
+        "description": "A tool for scheduling and automating social media posts across platforms.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2019-09-05",
+        "tags": ["PHP", "Social Media", "Web Development", "Scheduling"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Travel Booking App",
+        "description": "An app for booking flights, hotels, and travel packages on mobile devices.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2020-04-25",
+        "tags": ["Java", "Travel", "Mobile App", "Booking"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Video Editing Software",
+        "description": "Video editing software for enhancing videos with advanced editing features.",
+        "link": "github.com",
+        "by": "Oliver",
+        "date": "2018-11-05",
+        "tags": ["C++", "Video Editing", "Software", "Multimedia"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Project Management Tool",
+        "description": "A comprehensive tool for project management, task tracking, and team collaboration.",
+        "link": "github.com",
+        "by": "Hannah",
+        "date": "2021-05-20",
+        "tags": ["Ruby on Rails", "Project Management", "Web Development", "Collaboration"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Book Recommendation Platform",
+        "description": "A platform for book lovers to discover, rate, and recommend books to others.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2019-10-15",
+        "tags": ["Python", "Book Recommendations", "Web Development", "Reading"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Synchronization Tool",
+        "description": "A tool for synchronizing tasks and to-do lists across devices and platforms.",
+        "link": "github.com",
+        "by": "Evan",
+        "date": "2022-06-30",
+        "tags": ["React Native", "Task Management", "Mobile App", "Synchronization"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Language Learning App",
+        "description": "A language learning app with lessons, quizzes, and interactive exercises.",
+        "link": "github.com",
+        "by": "Zoe",
+        "date": "2020-09-15",
+        "tags": ["Java", "Language Learning", "Mobile App", "Education"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Organizer",
+        "description": "An organizer for storing and managing cooking recipes with ingredient lists.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2018-12-20",
+        "tags": ["Python", "Django", "Recipe Organization", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Portfolio Showcase",
+        "description": "An online portfolio for showcasing photography and design work with galleries.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-05-10",
+        "tags": ["HTML", "CSS", "Portfolio", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Time Tracking Application",
+        "description": "An app for tracking time spent on tasks and projects with reporting features.",
+        "link": "github.com",
+        "by": "Oliver",
+        "date": "2021-03-25",
+        "tags": ["Node.js", "Time Tracking", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Workout Planner",
+        "description": "A workout planner app for creating, scheduling, and tracking fitness routines.",
+        "link": "github.com",
+        "by": "Avery",
+        "date": "2022-04-30",
+        "tags": ["Swift", "iOS", "Fitness", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Survey and Feedback App",
+        "description": "An app for creating surveys and collecting user feedback with real-time results.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2019-06-25",
+        "tags": ["Java", "Survey", "Mobile App", "Feedback"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Event Management System",
+        "description": "A comprehensive system for managing events, conferences, and attendee registration.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2020-11-30",
+        "tags": ["Python", "Flask", "Event Management", "Web App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Digital Art Gallery",
+        "description": "An online gallery for showcasing digital art, illustrations, and graphics.",
+        "link": "github.com",
+        "by": "Aiden",
+        "date": "2018-10-15",
+        "tags": ["PHP", "Digital Art", "Web Development", "Art Gallery"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Tracker",
+        "description": "An app for managing personal finances, budgeting, and tracking expenses.",
+        "link": "github.com",
+        "by": "Grace",
+        "date": "2021-03-30",
+        "tags": ["React Native", "Finance", "Mobile App", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Task Management System",
+        "description": "A system for organizing, prioritizing, and tracking tasks and projects.",
+        "link": "github.com",
+        "by": "Daniel",
+        "date": "2019-07-25",
+        "tags": ["C#", "Task Management", "Web Development", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Sharing Platform",
+        "description": "A platform for food enthusiasts to share, discover, and discuss cooking recipes.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2022-01-10",
+        "tags": ["JavaScript", "Recipe Sharing", "Web Development", "Community"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Tracking System",
+        "description": "A system for businesses to monitor and manage inventory, stock levels, and supply chains.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-06-30",
+        "tags": ["Python", "Django", "Inventory", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "News Aggregator",
+        "description": "A news aggregation platform that collects, categorizes, and presents news articles from various sources.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2019-12-05",
+        "tags": ["Java", "News", "Web App", "Journalism"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Streaming Service",
+        "description": "A music streaming service with a vast library of songs, personalized playlists, and radio stations.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2022-06-10",
+        "tags": ["Ruby on Rails", "Music Streaming", "Web Development", "Entertainment"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Manager",
+        "description": "An app for managing personal finances, budgeting, expense tracking, and investment tracking.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2020-12-30",
+        "tags": ["Swift", "iOS", "Finance", "Budget"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Recommendation Engine",
+        "description": "An engine that suggests personalized cooking recipes based on user preferences, dietary restrictions, and available ingredients.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2018-08-30",
+        "tags": ["Python", "Machine Learning", "Cooking", "Recommendation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Auction Platform",
+        "description": "A web platform for bidding and selling items through online auctions.",
+        "link": "github.com",
+        "by": "Olivia",
+        "date": "2021-10-15",
+        "tags": ["Ruby on Rails", "E-commerce", "Online Auction", "Web Development"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI Image Recognition App",
+        "description": "An app that uses machine learning to recognize objects and scenes in images.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2022-04-10",
+        "tags": ["Python", "Machine Learning", "Image Recognition", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Smart Energy Management System",
+        "description": "A system for monitoring and optimizing energy usage in smart homes and buildings.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2020-12-05",
+        "tags": ["IoT", "Energy Management", "Smart Home", "Automation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Language Learning Platform",
+        "description": "An online platform for learning and practicing foreign languages with interactive lessons.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2021-08-20",
+        "tags": ["React", "Language Learning", "Web Development", "Education"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Digital Library App",
+        "description": "An app for accessing a digital library of books, documents, and research materials.",
+        "link": "github.com",
+        "by": "Emma",
+        "date": "2019-11-15",
+        "tags": ["Java", "Digital Library", "Mobile App", "Reading"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Property Rental App",
+        "description": "An app for listing, renting, and managing residential and commercial properties.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2020-05-30",
+        "tags": ["Swift", "iOS", "Property Rental", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Blog Analytics Tool",
+        "description": "A tool for bloggers to analyze website traffic, user engagement, and content performance.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2019-06-10",
+        "tags": ["Python", "Analytics", "Web Development", "Blogging"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Remote Team Collaboration Platform",
+        "description": "A platform for remote teams to collaborate on projects, video conferences, and share documents.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2022-01-20",
+        "tags": ["JavaScript", "Collaboration", "Web Development", "Remote Work"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Weather Forecast App",
+        "description": "An app that provides weather forecasts, radar images, and severe weather alerts.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2019-10-25",
+        "tags": ["React Native", "Weather", "Mobile App", "Forecast"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Journaling App",
+        "description": "An app for keeping personal diaries, journals, and recording life events.",
+        "link": "github.com",
+        "by": "Aiden",
+        "date": "2021-03-30",
+        "tags": ["Java", "Journaling", "Mobile App", "Diary"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Inventory Management System",
+        "description": "A system for businesses to efficiently manage inventory, orders, and suppliers.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2020-09-10",
+        "tags": ["C#", "Inventory Management", "Web Development", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Travel Planning App",
+        "description": "An app for planning and organizing travel itineraries, booking accommodations, and exploring destinations.",
+        "link": "github.com",
+        "by": "Logan",
+        "date": "2018-12-15",
+        "tags": ["React Native", "Travel Planning", "Mobile App", "Travel"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Composition Software",
+        "description": "Software for composing and arranging music with notation and MIDI capabilities.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2021-05-30",
+        "tags": ["C++", "Music Composition", "Software", "Music"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Health and Fitness Tracker",
+        "description": "An app for tracking health metrics, workouts, and nutrition plans.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2022-04-20",
+        "tags": ["Python", "Health", "Mobile App", "Fitness"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Media Analytics Tool",
+        "description": "A tool for businesses to analyze social media performance, audience engagement, and social campaigns.",
+        "link": "github.com",
+        "by": "Henry",
+        "date": "2020-06-15",
+        "tags": ["Ruby on Rails", "Analytics", "Web Development", "Social Media"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Event Registration System",
+        "description": "A system for event organizers to manage registrations, ticketing, and attendee data.",
+        "link": "github.com",
+        "by": "Aria",
+        "date": "2019-08-10",
+        "tags": ["Java", "Event Registration", "Web App", "Event Management"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Art Portfolio Website",
+        "description": "A portfolio website for artists to showcase their artworks and connect with art lovers.",
+        "link": "github.com",
+        "by": "Zoe",
+        "date": "2021-01-20",
+        "tags": ["HTML", "CSS", "Art Portfolio", "Web Design"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Time Management App",
+        "description": "An app for time tracking, task prioritization, and improving productivity.",
+        "link": "github.com",
+        "by": "Milo",
+        "date": "2020-11-30",
+        "tags": ["Swift", "iOS", "Time Management", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Discovery App",
+        "description": "An app for discovering new recipes based on available ingredients and dietary preferences.",
+        "link": "github.com",
+        "by": "Avery",
+        "date": "2019-07-20",
+        "tags": ["JavaScript", "Recipe Discovery", "Mobile App", "Cooking"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Project Task Tracker",
+        "description": "A tool for managing project tasks, deadlines, and team collaboration.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2018-10-25",
+        "tags": ["Python", "Task Management", "Web Development", "Project"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Wine Cellar Inventory",
+        "description": "An app for wine enthusiasts to catalog and manage their wine collections.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2022-02-10",
+        "tags": ["React", "Wine Cellar", "Mobile App", "Wine"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Budget Planner",
+        "description": "An app for tracking income, expenses, and creating budget plans.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2020-07-30",
+        "tags": ["Java", "Finance", "Mobile App", "Budgeting"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Knowledge Sharing Platform",
+        "description": "A platform for experts to share knowledge, give talks, and engage with a community of learners.",
+        "link": "github.com",
+        "by": "Aria",
+        "date": "2019-04-15",
+        "tags": ["Ruby on Rails", "Knowledge Sharing", "Web Development", "Learning"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Home Security System",
+        "description": "A smart home security system with cameras, alarms, and remote monitoring.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2022-03-20",
+        "tags": ["IoT", "Home Security", "Smart Home", "Security"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Virtual Reality Game",
+        "description": "A virtual reality game that offers immersive experiences and interactive gameplay.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2020-11-10",
+        "tags": ["Unity", "Virtual Reality", "Game Development", "Gaming"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Health Journal",
+        "description": "An app for individuals to track and record health and wellness data.",
+        "link": "github.com",
+        "by": "Evan",
+        "date": "2019-12-25",
+        "tags": ["React Native", "Health", "Mobile App", "Wellness"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-commerce Analytics Dashboard",
+        "description": "A dashboard for e-commerce businesses to monitor sales, inventory, and customer insights.",
+        "link": "github.com",
+        "by": "Zoe",
+        "date": "2021-07-05",
+        "tags": ["JavaScript", "Analytics", "Web Development", "E-commerce"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Networking App",
+        "description": "An app for connecting with friends, sharing updates, and discovering new content.",
+        "link": "github.com",
+        "by": "Henry",
+        "date": "2020-09-30",
+        "tags": ["Swift", "iOS", "Social Networking", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Course Marketplace",
+        "description": "A platform for instructors to create and sell online courses to a global audience.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-06-20",
+        "tags": ["Ruby on Rails", "E-learning", "Web Development", "Education"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Expense Tracker App",
+        "description": "An app for tracking daily expenses, categorizing transactions, and setting budget goals.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2020-03-10",
+        "tags": ["Java", "Finance", "Mobile App", "Expense Tracking"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Job Search Platform",
+        "description": "A platform for job seekers to search and apply for job listings across industries.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2018-11-30",
+        "tags": ["React", "Job Search", "Web Development", "Employment"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Document Management System",
+        "description": "A system for businesses to manage and organize documents, files, and records.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2021-03-10",
+        "tags": ["Python", "Document Management", "Web Development", "Business"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Event Ticketing Platform",
+        "description": "A platform for selling and managing tickets for concerts, sports events, and shows.",
+        "link": "github.com",
+        "by": "Logan",
+        "date": "2019-07-20",
+        "tags": ["PHP", "Event Ticketing", "Web Development", "Events"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Art Gallery",
+        "description": "An online platform for artists to exhibit and sell their art creations.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2022-02-25",
+        "tags": ["Java", "Art Gallery", "Web Development", "Art"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Task Planner",
+        "description": "An app for creating and managing daily to-do lists and task priorities.",
+        "link": "github.com",
+        "by": "Milo",
+        "date": "2020-08-05",
+        "tags": ["Swift", "iOS", "Task Planning", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Music Recommendation Engine",
+        "description": "An engine that suggests music playlists and tracks based on user preferences and listening history.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2019-11-30",
+        "tags": ["Python", "Machine Learning", "Music", "Recommendation"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI-Powered Language Translation",
+        "description": "An AI service that provides real-time language translation for travelers and global communication.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2019-09-20",
+        "tags": ["Java", "AI", "Translation", "Artificial Intelligence"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Gaming Community Forum",
+        "description": "A forum for gamers to discuss game strategies, updates, and connect with other players.",
+        "link": "github.com",
+        "by": "Oliver",
+        "date": "2020-07-15",
+        "tags": ["React", "Gaming", "Web Development", "Community"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Language Learning Platform",
+        "description": "A platform for learning and practicing languages through courses, exercises, and quizzes.",
+        "link": "github.com",
+        "by": "Liam",
+        "date": "2019-12-05",
+        "tags": ["Python", "Language Learning", "Web Development", "Education"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Weather Forecast Widget",
+        "description": "A widget for displaying real-time weather information on websites and mobile apps.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2021-03-10",
+        "tags": ["JavaScript", "Widget", "Weather", "Forecast"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Training App",
+        "description": "An app that offers fitness training programs, video workouts, and progress tracking.",
+        "link": "github.com",
+        "by": "Aria",
+        "date": "2020-08-10",
+        "tags": ["Swift", "iOS", "Fitness Training", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Travel Planning Assistant",
+        "description": "An assistant that helps travelers plan trips, find attractions, and book accommodations.",
+        "link": "github.com",
+        "by": "Eva",
+        "date": "2019-05-20",
+        "tags": ["Python", "Travel Planning", "Mobile App", "Travel"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI Chatbot for Customer Service",
+        "description": "A chatbot for businesses to provide automated customer support, answer inquiries, and resolve issues.",
+        "link": "github.com",
+        "by": "Emma",
+        "date": "2021-06-20",
+        "tags": ["Java", "Chatbot", "Web Development", "Customer Service"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Budgeting App",
+        "description": "An app for budgeting, expense tracking, and financial planning for personal and household finances.",
+        "link": "github.com",
+        "by": "Daniel",
+        "date": "2020-02-15",
+        "tags": ["Swift", "iOS", "Finance", "Budgeting"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Ride-Hailing and Delivery App",
+        "description": "An app for users to request rides and order food delivery from restaurants.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2018-12-30",
+        "tags": ["Ruby on Rails", "Ride-Hailing", "Mobile App", "Delivery"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI Content Curation",
+        "description": "An AI-based tool that curates and recommends articles and content for blogs and websites.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2021-08-05",
+        "tags": ["Python", "AI", "Content Curation", "Artificial Intelligence"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Home Security System",
+        "description": "A comprehensive security system for protecting homes with alarms, cameras, and sensors.",
+        "link": "github.com",
+        "by": "Logan",
+        "date": "2019-06-30",
+        "tags": ["IoT", "Security", "Smart Home", "Safety"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI-Enhanced Video Editing",
+        "description": "Video editing software that uses AI to improve video quality, transitions, and effects.",
+        "link": "github.com",
+        "by": "Daniel",
+        "date": "2020-04-20",
+        "tags": ["Python", "AI", "Video Editing", "Artificial Intelligence"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Virtual Personal Assistant",
+        "description": "A virtual assistant that helps users with tasks, reminders, and information retrieval.",
+        "link": "github.com",
+        "by": "Mia",
+        "date": "2019-11-05",
+        "tags": ["Java", "AI", "Virtual Assistant", "Artificial Intelligence"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Restaurant Rating App",
+        "description": "An app for users to rate and review restaurants, discover new dining options, and make reservations.",
+        "link": "github.com",
+        "by": "Sophie",
+        "date": "2021-02-15",
+        "tags": ["Swift", "iOS", "Restaurant", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Data Backup and Recovery",
+        "description": "A data backup and recovery solution for individuals and businesses to protect against data loss.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-07-30",
+        "tags": ["Ruby on Rails", "Data Backup", "Web Development", "Data Security"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Machine Learning Model Repository",
+        "description": "A platform for sharing, exploring, and collaborating on machine learning models and projects.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-05-30",
+        "tags": ["Python", "Machine Learning", "Repository", "Collaboration"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Goal Tracker",
+        "description": "An app for setting and tracking personal goals, habits, and achievements.",
+        "link": "github.com",
+        "by": "Noah",
+        "date": "2021-09-10",
+        "tags": ["React", "Goal Tracking", "Mobile App", "Productivity"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Marketplace for Handmade Crafts",
+        "description": "A platform for artisans and crafters to sell handmade and unique items.",
+        "link": "github.com",
+        "by": "Oliver",
+        "date": "2018-10-05",
+        "tags": ["Ruby on Rails", "Crafts", "Web Development", "E-commerce"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI Music Composer",
+        "description": "An AI tool that composes original music and generates musical compositions.",
+        "link": "github.com",
+        "by": "Zoe",
+        "date": "2020-03-15",
+        "tags": ["Python", "AI", "Music", "Artificial Intelligence"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Smart Energy Management",
+        "description": "A system for optimizing energy consumption in homes and businesses, reducing costs and environmental impact.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2019-08-20",
+        "tags": ["IoT", "Energy Management", "Sustainability", "Smart Home"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Auction Platform",
+        "description": "A platform for hosting online auctions for a variety of items and products.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2021-04-30",
+        "tags": ["Java", "Auction", "Web Development", "E-commerce"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Video Conferencing App",
+        "description": "An app for video conferencing, online meetings, and webinars.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-02-10",
+        "tags": ["Swift", "iOS", "Video Conferencing", "Mobile App"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Manager",
+        "description": "An app for managing personal finances, budgeting, and tracking expenses.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2021-08-05",
+        "tags": ["JavaScript", "Finance", "Mobile App", "Budgeting"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Health Tracker",
+        "description": "An app for tracking health metrics, symptoms, and medical records.",
+        "link": "github.com",
+        "by": "Eva",
+        "date": "2019-07-25",
+        "tags": ["React", "Health", "Mobile App", "Fitness"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online News Aggregator",
+        "description": "A news aggregator that collects and presents news articles from various sources.",
+        "link": "github.com",
+        "by": "Sophia",
+        "date": "2021-04-20",
+        "tags": ["Python", "News", "Web Development", "Journalism"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Course Platform",
+        "description": "A platform for creating and sharing online courses with a global audience.",
+        "link": "github.com",
+        "by": "Ella",
+        "date": "2019-05-30",
+        "tags": ["React", "E-learning", "Web Development", "Education"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Recipe Finder App",
+        "description": "An app for finding and discovering new recipes based on ingredients, dietary preferences, and cuisine.",
+        "link": "github.com",
+        "by": "Emma",
+        "date": "2021-08-25",
+        "tags": ["Java", "Recipe Finder", "Mobile App", "Cooking"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Tracker",
+        "description": "An app for tracking income, expenses, and financial goals for personal and household finances.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-07-30",
+        "tags": ["Swift", "iOS", "Finance", "Budgeting"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "AI-Powered Resume Builder",
+        "description": "A resume builder that uses AI to analyze, review, and improve resumes and cover letters.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2021-04-05",
+        "tags": ["Python", "AI", "Resume Builder", "Artificial Intelligence"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Blogging Platform",
+        "description": "A platform for creating and publishing personal blogs and articles.",
+        "link": "github.com",
+        "by": "Emma",
+        "date": "2019-08-10",
+        "tags": ["Ruby on Rails", "Blogging", "Web Development", "Writing"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Fitness Training App",
+        "description": "An app for tracking fitness goals, workouts, and progress.",
+        "link": "github.com",
+        "by": "Chloe",
+        "date": "2021-02-15",
+        "tags": ["Java", "Fitness Training", "Mobile App", "Fitness"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "E-commerce Analytics Tool",
+        "description": "A tool for e-commerce businesses to monitor sales, customer behavior, and product performance.",
+        "link": "github.com",
+        "by": "Avery",
+        "date": "2019-07-30",
+        "tags": ["React", "Analytics", "Web Development", "E-commerce"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Art Portfolio Website",
+        "description": "A portfolio website for artists to showcase their artworks and connect with art lovers.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2020-05-10",
+        "tags": ["JavaScript", "Art Portfolio", "Web Design", "Art"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Social Media Analytics Tool",
+        "description": "A tool for businesses to analyze social media performance, audience engagement, and social campaigns.",
+        "link": "github.com",
+        "by": "Mason",
+        "date": "2019-11-15",
+        "tags": ["Swift", "Analytics", "Mobile App", "Social Media"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Personal Finance Manager",
+        "description": "An app for managing personal finances, budgeting, and tracking expenses.",
+        "link": "github.com",
+        "by": "Oscar",
+        "date": "2020-11-30",
+        "tags": ["React", "Finance", "Web Development", "Budgeting"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Event Registration System",
+        "description": "A system for event organizers to manage registrations, ticketing, and attendee data.",
+        "link": "github.com",
+        "by": "Ava",
+        "date": "2019-06-05",
+        "tags": ["Java", "Event Registration", "Web Development", "Event Management"],
+        "profile_link": "github.com"
+    },
+    {
+        "title": "Online Marketplace for Handmade Crafts",
+        "description": "A platform for artisans and crafters to sell handmade and unique items.",
+        "link": "github.com",
+        "by": "Ethan",
+        "date": "2018-09-30",
+        "tags": ["Ruby on Rails", "Crafts", "Web Development", "E-commerce"],
+        "profile_link": "github.com"
+    }
+]
